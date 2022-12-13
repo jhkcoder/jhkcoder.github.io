@@ -3,6 +3,6 @@
 <img src="repo.png" width="400">
 
 ## My Repository
-[PCDE-Activity-9.1](https://jhkcoder.github.io/PCDE-Activity-9.1/)
+* [PCDE-Activity-9.1](https://jhkcoder.github.io/PCDE-Activity-9.1/)<br />
 
-[MO-PCDE_M9_final_assignment](https://github.com/jhkcoder/MO-PCDE_M9_final_assignment)
+* [MO-PCDE_M9_final_assignment](https://github.com/jhkcoder/MO-PCDE_M9_final_assignment)
