@@ -1,8 +1,17 @@
-# jhkcoder.github.io
+# jkcoder.github.io
 
-<img src="repo.png" width="400">
+create a new repository on the command line:
+----
+echo "# jkcoder.github.io" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/jhkcoder/jkcoder.github.io.git
+git push -u origin main
 
-## My Repository
-* [PCDE-Activity-9.1](https://jhkcoder.github.io/PCDE-Activity-9.1/)<br />
-
-* [MO-PCDE_M9_final_assignment](https://github.com/jhkcoder/MO-PCDE_M9_final_assignment)
+push an existing repository from the command line:
+---
+git remote add origin https://github.com/jhkcoder/jkcoder.github.io.git
+git branch -M main
+git push -u origin main
